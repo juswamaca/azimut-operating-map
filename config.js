@@ -3,7 +3,7 @@ window.OPMAP_CONFIG = {
   // The "Publish to web" CSV link of the master sheet's "1 Operating Map" tab.
   // In the sheet: File > Share > Publish to web > pick the "1 Operating Map" tab and "Comma-separated values (.csv)" > Publish, then copy the link.
   // It looks like https://docs.google.com/spreadsheets/d/e/2PACX-.../pub?gid=...&single=true&output=csv
-  csvUrl: '',
+  csvUrl: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRW0ch2Kgld_qvrfooyecy5XtIQnXiDCmM_l0ToTDmC71y3e3PaccLGBlkbjWkN-Q/pubhtml?gid=1223472293&single=true',
 
   // How the page names its source.
   sourceLabel: 'Operating Map Master',
